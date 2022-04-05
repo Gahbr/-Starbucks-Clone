@@ -14,7 +14,7 @@
 
 ## About
 
-I cloned a Starbucks landing page for study purposes only. Credits to [Nicepage](http://starbucks.nicepage.io/). This project is available [here!]( gahbr.github.io/-starbucks-clone/).
+I cloned a Starbucks landing page for study purposes only. Credits to [Nicepage](http://starbucks.nicepage.io/). This project is available [here!]( https://gahbr.github.io/-Starbucks-Clone/).
 
 ---
 
